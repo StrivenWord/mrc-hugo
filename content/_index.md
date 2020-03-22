@@ -60,7 +60,7 @@
     button_text = "Enter Worship"
 
   [[feature_images.tile]]
-    image = "img/freely-26905.jpg"
+    image = "img/mrc-giving.jpg"
     title = "Contribute Financially"
     text = "Gifts, donations, and tithes may be submitted by PayPal or by check made out to 'Mohawk Reformed Church' and mailed to our postal address."
     url = "#"
