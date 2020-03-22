@@ -24,30 +24,30 @@
     icon = "fa-hands-helping"
     icon_pack = "fas"
     accent = "1"
-    title = "Serve"
-    text = "Growing people who serve our community."
+    title = "History"
+    text = "A part of the Mohawk community since 1838 with historic roots in the colonial Fort Herkimer congregation, today Mohawk Reformed Church aspires to actively benefit our neighborhood and our world, while keeping our doors wide open as we teach and practice the Christian faith."
     url = "/kids"
 
   [[feature_icons.tile]]
     icon = "fa-church"
     icon_pack = "fas"
     accent = "2"
-    title = "Meet"
-    text = "Meeting together to hear."
+    title = "Faith"
+    text = "We believe in God the Father, in Jesus Christ our Savior, and in the Holy Spirit. We believe in the Christian Church, in salvation by grace through faith, and in God's eternal kingdom."
 
   [[feature_icons.tile]]
     icon = "fa-comments"
     icon_pack = "fas"
     accent = "5"
-    title = "Speak"
-    text = "Speaking encouragement to one-another."
+    title = "Operations"
+    text = "We are a local congregation of the Reformed Church in America. We are governed by a local board of elders (known as a consistory). We have a formal membership of professed believers. All are welcome at our services and events."
 
   [[feature_icons.tile]]
     icon = "fa-heartbeat"
     icon_pack = "fas"
     accent = "3"
-    title = "Loved"
-    text = "Knowing Love. Being Loved."
+    title = "Activities"
+    text = "In addition to our weekly Sunday services, we hold community dinners that are hallmarks of our village's traditions, donate to local relief charities, and sponsor struggling children from other countries through international ministries. Ordinary held in our sanctuary at 10:30 from September through June and at 9:30 in July and August, our services are currently conducted virtually using Facebook and YouTube live streaming due to the contemporary pandemic."
 
 [feature_images]
 #These feature images look best if there's an even number of them.
