@@ -52,7 +52,7 @@ unsafe = true
     weight = 3
 
   [[menu.main]]
-    name = "services"
+    name = "Services"
     url = "/services"
     parent = "Resources"
     weight = 1
