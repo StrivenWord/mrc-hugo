@@ -142,17 +142,17 @@ unsafe = true
                    "[Hugo Port](//gohugo.io) by [Daniel Saunders](//github.com/funkydan2)"
                   ]
 
-    [[params.links]]
-      service = "Twitter"
-      icon = "fa-twitter"
-      icon_pack = "fab"
-      link = "//twitter.com/"
+    # [[params.links]]
+    #   service = "Twitter"
+    #   icon = "fa-twitter"
+    #   icon_pack = "fab"
+    #   link = "//twitter.com/"
 
     [[params.links]]
       service = "Facebook"
       icon = "fa-facebook"
       icon_pack = "fab"
-      link = "//facebook.com/"
+      link = "//facebook.com/Mohawk-Reformed-Church-106214636103566/"
 
     [[params.links]]
       service = "Podcast"
