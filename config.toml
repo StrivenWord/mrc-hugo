@@ -94,7 +94,7 @@ unsafe = true
   customCSS = ["example.css"]
 
   [params.banner]
-    image = "img/banner.jpg"
+    image = "img/mrc-banner.jpg"
 
 #  [params.style]
 #    googleFonts = ["Cardo", "Crimson+Text", "Merriweather", "Playfair+Display:400,700", "Roboto+Slab"]
@@ -116,7 +116,7 @@ unsafe = true
     # For Open Street Map widgets
     latitude = "43.01047"
     longitude = "-75.00497"
-    zoom = "18"
+    zoom = "13"
     # If you want to use google maps you'll need an API Key from Google https://developers.google.com/maps/documentation/embed/get-api-key
     #service = "google"
     #api_key = "XXXXXXXX"
