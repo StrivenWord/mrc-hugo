@@ -21,29 +21,28 @@
 
   #Accent is a colour defined in the CSS file. Choose between 1 and 5
   [[feature_icons.tile]]
-    icon = "fa-hands-helping"
+    icon = "fa-monument"
     icon_pack = "fas"
     accent = "1"
     title = "History"
     text = "A part of the Mohawk community since 1838 with historic roots in the colonial Fort Herkimer congregation, today Mohawk Reformed Church aspires to actively benefit our neighborhood and our world, while keeping our doors wide open as we teach and practice the Christian faith."
-    url = "/kids"
 
   [[feature_icons.tile]]
-    icon = "fa-church"
+    icon = "fa-cross"
     icon_pack = "fas"
     accent = "2"
     title = "Faith"
     text = "We believe in God the Father, in Jesus Christ our Savior, and in the Holy Spirit. We believe in the Christian Church, in salvation by grace through faith, and in God's eternal kingdom."
 
   [[feature_icons.tile]]
-    icon = "fa-comments"
+    icon = "fa-cogs"
     icon_pack = "fas"
     accent = "5"
-    title = "Operations"
-    text = "We are a local congregation of the Reformed Church in America. We are governed by a local board of elders (known as a consistory). We have a formal membership of professed believers. All are welcome at our services and events."
+    title = "Order"
+    text = "We are a local congregation of the Reformed Church in America. We are governed by a local board of elders (known as a <em>consistory</em>). We have a formal membership of professed believers. All are welcome at our services and events."
 
   [[feature_icons.tile]]
-    icon = "fa-heartbeat"
+    icon = "fa-hands-helping"
     icon_pack = "fas"
     accent = "3"
     title = "Activities"
