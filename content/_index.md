@@ -12,8 +12,8 @@
 #Details for the box below the banner
 [services]
   title = "Church on Sunday"
-  text = "We meet at 5 am and 2 pm at [6 Parvis Notre-Dame - Pl. Jean-Paul II, 75004 Paris](https://www.openstreetmap.org/way/201611261)."
-  map_location = "Cathédrale Notre-Dame de Paris"
+  text = "Our location is [20 South Otsego Street, Mohawk, New York](https://www.openstreetmap.org/way/20093898#map=18/43.01047/-75.00497)."
+  map_location = "Mohawk Reformed Church"
 
 [feature_icons]
   #These feature icons look best if there's an even number of them.
