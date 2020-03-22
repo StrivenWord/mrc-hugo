@@ -1,5 +1,5 @@
 ---
-title: "Sunday Serice, March 23, 2020"
+title: "Fourth Sunday of Lent"
 passage: "March 23, 2020"
 date: 2020-05-11T09:06:46+10:00
 audio: ["//www.facebook.com/106214636103566/videos/1109760739385133/"]
@@ -23,7 +23,7 @@ This was the first service in which we were livestream only.
     <blockquote cite="https://www.facebook.com/106214636103566/videos/1109760739385133/">
       <a href="https://www.facebook.com/106214636103566/videos/1109760739385133/">How to Share With Just Friends</a>
       <p>How to share with just friends.</p>
-      Posted by <a href="https://www.facebook.com/facebook/">Facebook</a> on Friday, December 5, 2014
+      Posted by <a href="https://www.facebook.com/facebook/">Facebook</a> on Sunday, March 23, 2020
     </blockquote>
   </div>
 </div>
