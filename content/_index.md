@@ -54,17 +54,17 @@
 
   [[feature_images.tile]]
     image = "img/freely-10057.jpg"
-    title = "Childrens' Ministry"
-    text = "A church for the family."
-    url = "/kids"
-    button_text = "Learn more"
+    title = "Join Our Virtual Services"
+    text = "Services are live-streamed on Facebook and YouTube. Join us live at 10:30 on Sundays, or watch our past services and sermons."
+    url = "/podcast"
+    button_text = "Enter Worship"
 
   [[feature_images.tile]]
     image = "img/freely-26905.jpg"
-    title = "Midweek Ministries"
-    text = "Want more during the week?"
+    title = "Contribute Financially"
+    text = "Gifts, donations, and tithes may be submitted by PayPal or by check made out to 'Mohawk Reformed Church' and mailed to our postal address."
     url = "#"
-    button_text="Join a group today!"
+    button_text="Open PayPal"
 
 [CTA]
   heading = "Get in touch!"
