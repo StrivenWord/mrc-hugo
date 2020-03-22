@@ -53,7 +53,7 @@
   enable = true
 
   [[feature_images.tile]]
-    image = "img/freely-10057.jpg"
+    image = "img/mrc-digital.jpg"
     title = "Join Our Virtual Services"
     text = "Services are live-streamed on Facebook and YouTube. Join us live at 10:30 on Sundays, or watch our past services and sermons."
     url = "/podcast"
