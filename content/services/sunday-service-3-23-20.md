@@ -6,7 +6,7 @@ audio: ["//www.facebook.com/106214636103566/videos/1109760739385133/"]
 audio_duration: 19:03
 audio_size: 14076118
 preachers: ["Brian Engel"]
-images: ["/img/freely-20445.jpg"]
+images: ["/img/mrc-external-cross.jpg"]
 series: ["Test"]
 tags: ["bible","scripture", "historical"]
 draft: false
