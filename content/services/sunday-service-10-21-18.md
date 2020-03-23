@@ -1,7 +1,7 @@
 ---
 title: "A Sermon from 2018"
 passage: "Table Talk"
-date: 2018-05-11T09:06:46+10:00
+date: 2018-10-21T09:06:46+10:00
 audio: ["//www.facebook.com/106214636103566/videos/2252889311622626/"]
 audio_duration: 14:39
 audio_size: 14076118
