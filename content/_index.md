@@ -63,7 +63,7 @@
     image = "img/mrc-giving.jpg"
     title = "Contribute Financially"
     text = "Gifts, donations, and tithes may be submitted by PayPal or by check made out to 'Mohawk Reformed Church' and mailed to our postal address."
-    url = "#"
+    url = "https://paypal.me/mohawkreformed"
     button_text="Open PayPal"
 
 [CTA]
