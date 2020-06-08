@@ -82,7 +82,7 @@ unsafe = true
 
   [[menu.main]]
     name = "Videos"
-    url = "/videos"
+    url = "https://www.youtube.com/channel/UCmtBApwDoqB91uT9YA5UU6w"
     weight = 5
 
 # Paramaters for the whole site
