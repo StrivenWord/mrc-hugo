@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mohawk Reformed Church</title>
+    <link>https://mohawkreformedchurch.org/</link>
+    <description>Recent content on Mohawk Reformed Church</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 May 2018 13:49:50 +1000</lastBuildDate>
+    
+	<atom:link href="https://mohawkreformedchurch.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fourth Sunday of Lent</title>
+      <link>https://mohawkreformedchurch.org/services/sunday-service-3-23-20/</link>
+      <pubDate>Mon, 11 May 2020 09:06:46 +1000</pubDate>
+      
+      <guid>https://mohawkreformedchurch.org/services/sunday-service-3-23-20/</guid>
+      <description>This was the first service in which we were livestream only.
+  How to Share With Just Friends How to share with just friends.
+Posted by Facebook on Sunday, March 23, 2020    </description>
+    </item>
+    
+    <item>
+      <title>Hello, World!</title>
+      <link>https://mohawkreformedchurch.org/posts/my-first-post/</link>
+      <pubDate>Sat, 21 Mar 2020 21:28:27 -0400</pubDate>
+      
+      <guid>https://mohawkreformedchurch.org/posts/my-first-post/</guid>
+      <description>In the beginning was the Word, and the Word was with God, and the Word was God.
+All things were made through Him, and without Him was nothing made that was made.
+Amen.</description>
+    </item>
+    
+    <item>
+      <title>A Sermon from 2018</title>
+      <link>https://mohawkreformedchurch.org/services/sunday-service-10-21-18/</link>
+      <pubDate>Sun, 21 Oct 2018 09:06:46 +1000</pubDate>
+      
+      <guid>https://mohawkreformedchurch.org/services/sunday-service-10-21-18/</guid>
+      <description>This was a sermon from before we the pandemic restrictions.
+  How to Share With Just Friends How to share with just friends.
+Posted by Facebook on Sunday, October 21, 2018    </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://mohawkreformedchurch.org/contact/</link>
+      <pubDate>Sat, 12 May 2018 13:49:50 +1000</pubDate>
+      
+      <guid>https://mohawkreformedchurch.org/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thanks for Contacting Us</title>
+      <link>https://mohawkreformedchurch.org/contact_thanks/</link>
+      <pubDate>Sat, 12 May 2018 13:38:38 +1000</pubDate>
+      
+      <guid>https://mohawkreformedchurch.org/contact_thanks/</guid>
+      <description>Thanks for the good word!
+Your message is saved in our website processing system and has been copied to our pastor, secretary, and website administrator.</description>
+    </item>
+    
+  </channel>
+</rss>
